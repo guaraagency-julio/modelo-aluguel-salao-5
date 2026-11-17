@@ -1,1 +1,3 @@
-Modelo demonstrativo para portfólio da Guará Agency. Marca e informações fictícias. Fotos ilustrativas: Unsplash. Formulários não enviam dados. Publicação automatizada pelo GitHub Pages.
+# Chácara Horizonte — modelo demonstrativo
+
+Modelo baseado na referência fornecida pelo usuário. Marca, dados, serviços e depoimentos são ilustrativos. As fotografias pertencem à referência. Os contatos são simulados e não enviam dados. Publicação automática pelo GitHub Pages.
